@@ -1,8 +1,8 @@
 ## Interface: 11200
 ## Title: Decouple
 ## Notes: Decouple addon updates from the framerate
-## Author: Weird Vibes
-## Version: 1.0
+## Author: Torio, Weird Vibes
+## Version: 1.1
 ## OptionalDeps: UnitXP_SP3_Addon
 
 Decouple.lua

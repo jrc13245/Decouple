@@ -20,7 +20,7 @@ if not has_unitxp3 then
 end
 
 -- global addon update rate
-local update_rate = 1 / 60 * 1000 -- 60 fps update rate
+local update_rate = 1 / 30 * 1000 -- 30? fps update rate
 
 -- update rate special cases
 local special_cases = {
